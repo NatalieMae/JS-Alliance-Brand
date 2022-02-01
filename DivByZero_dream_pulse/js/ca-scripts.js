@@ -56,7 +56,7 @@ function hideElement() {
 
     // <p id="addresspara" class="mb-3"> <!--todo: Add customer company address/phone number text-->
     let addresspara = document.getElementById('addresspara');
-    addresspara.innerText = "800-555-5555"
+    addresspara.innerText = "1-800-565-5656"
 
 }; 
 
